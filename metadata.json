@@ -1,0 +1,7 @@
+{
+    "uuid": "aris@v1",
+    "name": "Aris v1",
+    "description": "An example extension",
+    "shell-version": [ "46" ],
+    "url": "https://gjs.guide/extensions"
+}
